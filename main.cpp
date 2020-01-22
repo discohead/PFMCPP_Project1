@@ -33,88 +33,118 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cat
+ action 1: the cat meows
+ action 2: the cat scratches
+ action 3: the cat purrs
  */
-
+cat.meow();
+cat.scratch();
+cat.purr();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: dog
+ action 1: the dog barks
+ action 2: the dog jumps
+ action 3: the dog licks
  */
+
+ dog.bark();
+ dog.jump();
+ dog.lick();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: car
+ action 1: the car starts
+ action 2: the car drives
+ action 3: the car stops
  */
 
+car.start();
+car.drive();
+car.stop();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: synthesizer
+ action 1: the synthesizer bleeps
+ action 2: the synthesizer bloops
+ action 3: the synthesizer mutes
  */
+
+ synthesizer.bleep();
+ synthesizer.bloop();
+ synthesizer.mute();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: sequencer
+ action 1: the sequencer advances
+ action 2: the sequencer reverses
+ action 3: the sequencer stops
  */
-
+sequencer.advance();
+sequencer.reverse();
+sequencer.stop();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: person
+ action 1: the person speaks
+ action 2: the person sleeps
+ action 3: the person eats
  */
+
+ person.speak();
+ person.sleep();
+ person.eat();
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: hand
+ action 1: the hand grasps
+ action 2: the hand releases
+ action 3: the hand waves
  */
-
+hand.grasp();
+hand.release();
+hand.wave();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: robot
+ action 1: the robot spins
+ action 2: the robot beeps
+ action 3: the robot shuts down
  */
+ robot.spin();
+ robot.beep();
+ robot.shutDown();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: foo
+ action 1: the foo bars
+ action 2: the foo bazs
+ action 3: the foo quxs
  */
-
+foo.bar();
+foo.baz();
+foo.qux();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: programmer
+ action 1: the programmer drinks coffee
+ action 2: the programmer codes
+ action 3: the programmer goes to meeting
  */
+
+programmer.drinkCoffee();
+programmer.code();
+programmer.goToMeeting();
 
 
 #endif
